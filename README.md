@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordiriuscorcoy
 - 👀 I’m interested in coding and automation
-- 🌱 I’m currently learning python 
+- 🌱 I code Python and React
 - 💞️ I’m looking to collaborate on trading projects  
 - 📫 you can reach me at jordiriuscorcoy@gmail.com
 
